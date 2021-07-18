@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f5a9154f06fbe569769d5771ff30afb",
+    "revision": "9400e3d3de95129f9bd345d2f0dd01fa",
     "url": "/resume-react/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume-react/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "071919e2baa97e0b3372",
-    "url": "/resume-react/static/css/main.1b36cd9b.chunk.css"
+    "revision": "c36cdba930534f1e4071",
+    "url": "/resume-react/static/css/main.e666ff1a.chunk.css"
   },
   {
     "revision": "de5c5b0916a91be21159",
@@ -32,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume-react/static/js/4.48c759cb.chunk.js"
   },
   {
-    "revision": "071919e2baa97e0b3372",
-    "url": "/resume-react/static/js/main.18eead55.chunk.js"
+    "revision": "c36cdba930534f1e4071",
+    "url": "/resume-react/static/js/main.f4cfc9b3.chunk.js"
   },
   {
     "revision": "12cf90783c4c848e8d37",
     "url": "/resume-react/static/js/runtime-main.badb500f.js"
   },
   {
-    "revision": "21f233e19402cc4a66866a7f31191f0d",
-    "url": "/resume-react/static/media/Agustina.21f233e1.woff"
+    "revision": "a3752c4bf72688b3db38d0911cf75f61",
+    "url": "/resume-react/static/media/Agustina.a3752c4b.woff"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
